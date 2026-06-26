@@ -878,5 +878,4 @@ body{background:var(--bg);color:var(--ink);font-family:'Plus Jakarta Sans',sans-
 .badge-gap {
   background-color: #dc3545 !important;
   color: #fff !important;
-  cursor: help;
 }
